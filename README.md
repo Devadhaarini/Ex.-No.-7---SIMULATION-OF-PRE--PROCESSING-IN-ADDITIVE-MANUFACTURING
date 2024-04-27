@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: DEVADHAARINI.D
+### Register Number: 212223230040
+![image](https://github.com/Devadhaarini/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145796552/5807d2fc-e848-4c0f-a442-7d15dd66e2b1)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
